@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=["https://raw.githubusercontent.com/SilverCrow2323/RSPDW-Chou-Henka-Project/main/Assets/bgm_normalizer_banner.png](https://i.ibb.co/dw5vs93C/muos-20260721-014801.png)" width="640" alt="SPDW BGM Normalizer Banner">
+  <img src="https://i.ibb.co/dw5vs93C/muos-20260721-014801.png" width="640" alt="SPDW BGM Normalizer Banner">
 </p>
 
 <h1 align="center">🎵 SPDW BGM Normalizer</h1>
@@ -28,9 +28,12 @@ Whether you have a messy library of MP3s, FLACs, and WAVs in varying volumes, th
 Built with pure Python and SDL2 via ctypes — no pip, no bloat, no nonsense.
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/SilverCrow2323/RSPDW-Chou-Henka-Project/main/Assets/bgm_screenshot_main.png](https://i.ibb.co/WpWXv28t/muos-20260721-014739.png)" width="640" alt="BGM Normalizer Main Menu">
+  <img src="https://i.ibb.co/WpWXv28t/muos-20260721-014739.png" width="640" alt="BGM Normalizer Main Menu">
 </p>
 
+<p align="center">
+  <img src="https://i.ibb.co/dsq703Q2/muos-20260721-014721.png" width="640" alt="BGM Normalizer Menu">
+</p>
 ---
 
 ## ✨ Key Features
